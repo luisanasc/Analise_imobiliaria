@@ -1,6 +1,6 @@
 ## Análise de Dados Imobiliários
 
-Descrição do Projeto
+- Descrição do Projeto
 
 Este projeto tem como objetivo analisar o arquivo trabalho1.csv, que contém informações sobre imóveis, incluindo:
 
@@ -12,9 +12,9 @@ Número de vagas de garagem
 
 Valor unitário (R$ por m²)
 
-A análise foi realizada utilizando a linguagem Python, com o uso de bibliotecas de manipulação de dados e modelagem estatística.
+(A análise foi realizada utilizando a linguagem Python, com o uso de bibliotecas de manipulação de dados e modelagem estatística.)
 
-Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 Pandas para manipulação dos dados.
 
