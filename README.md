@@ -1,4 +1,4 @@
-Análise de Dados Imobiliários
+## Análise de Dados Imobiliários
 
 Descrição do Projeto
 
@@ -26,7 +26,7 @@ Matplotlib para visualização dos dados.
 
 SciPy para cálculos estatísticos adicionais.
 
-Análises Realizadas
+## Análises Realizadas
 
 Leitura e Exibição dos Dados
 
@@ -72,7 +72,7 @@ Regressão linear múltipla.
 
 Comparação das estimativas e análise das diferenças.
 
-Resultados Principais
+## Resultados Principais
 
 Média dos valores unitários: R$8.374,22
 
@@ -84,8 +84,6 @@ Diferença entre as estimativas: valores relativamente próximos, mas indicando 
 
 O coeficiente de correlação entre área e valor unitário foi -0,07, sugerindo fraca relação linear.
 
-Conclusão
+## Conclusão
 
 A análise mostrou que a área do imóvel, por si só, não é um forte preditor do valor unitário, sendo necessário considerar outras variáveis para estimar preços de maneira mais confiável. Apesar das diferenças entre as abordagens, os valores estimados foram relativamente próximos.
-
-Como Executar o Projeto
